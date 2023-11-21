@@ -10,7 +10,7 @@
 
 ***
 
-# Atualmente Estudando
+# Estudando Atualmente 
 
 
  - ## Desenvolvimento De Sistema
