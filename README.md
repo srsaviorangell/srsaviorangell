@@ -6,30 +6,27 @@
 # Conecte-se Comigo
 
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/savio-rangell-553498287/) [![GitHub](https://img.shields.io/badge/GitHbt-000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/srsaviorangell) [![Twitter](https://img.shields.io/badge/Twitter-000?style=for-the-badge&logo=twitter)](https://twitter.com/srsaviorangel)[![Instagram](https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/srsaviorange/)[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/0557499630711)[![Gmail](https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red)](mailto:srbet188@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/savio-rangell-553498287/) [![GitHub](https://img.shields.io/badge/GitHbt-000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/srsaviorangell) [![Twitter](https://img.shields.io/badge/Twitter-000?style=for-the-badge&logo=twitter)](https://twitter.com/srsaviorangel)[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/0557499630711)[![Gmail](https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red)](mailto:srbet188@gmail.com)
 
-<a href="https://visitor-badge.laobi.icu/"><img src="https://visitor-badge.laobi.icu/badge?page_id=srsaviorangell" alt="srsaviorangell"/></a>
-***
 
 # Estudando Atualmente 
 
 
  - ## Desenvolvimento De Sistema
      * ##### IFSulDeMinas
-     *  Formação Dezembro 2024
- - ## Engenharia De Sofware
-     * #### Pitagoras
-     *  Formação Julho De 2026
+     *  Formação MARÇO 2025
 
 # Habilidades
-  
-  ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![JavaScript Badge](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000&style=plastic)
+![Node.js Badge](https://img.shields.io/badge/Node.js-5FA04E?logo=nodedotjs&logoColor=fff&style=plastic)
+![Tailwind CSS Badge](https://img.shields.io/badge/Tailwind%20CSS-06B6D4?logo=tailwindcss&logoColor=fff&style=plastic)
+
+
 
 
 ##### Estudando 
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-000?style=for-the-badge&logo=sqlite&logoColor=07405E)
+![React Badge](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=000&style=plastic)
+![Kotlin Badge](https://img.shields.io/badge/Kotlin-7F52FF?logo=kotlin&logoColor=fff&style=plastic)
 
 
 
