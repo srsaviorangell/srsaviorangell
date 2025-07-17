@@ -15,7 +15,14 @@
  - ## Desenvolvimento De Sistema
      * ##### IFSulDeMinas
      *  Formação MARÇO 2025
-
+   
+ - ## Rede De Computadores
+     * ##### IFBahiano
+     *  Formação AGOSTO 2026
+ - ## ENGENHARIA DE SOFTWARE
+     * ##### ANHANGUERA
+     *  Formação AGOSTO 2028
+     *  
 # Habilidades
 ![JavaScript Badge](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000&style=plastic)
 ![Node.js Badge](https://img.shields.io/badge/Node.js-5FA04E?logo=nodedotjs&logoColor=fff&style=plastic)
@@ -26,7 +33,6 @@
 
 ##### Estudando 
 ![React Badge](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=000&style=plastic)
-![Kotlin Badge](https://img.shields.io/badge/Kotlin-7F52FF?logo=kotlin&logoColor=fff&style=plastic)
 
 
 
